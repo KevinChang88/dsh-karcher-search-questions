@@ -1,0 +1,5 @@
+# 客户搜索问题生成器 —— 组合包补丁
+# 挂载本包：宿主侧（Remote 服务 + LLM 生成）与浏览器侧（左侧栏面板）由同一行共同生效。
+- insert:
+    - id: karcher-search-questions
+      name: dsh-karcher-search-questions
